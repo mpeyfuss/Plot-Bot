@@ -1320,7 +1320,7 @@ class Plot_Bot(QMainWindow):
             msg.setWindowTitle("Something Went Wrong")
             msg.setIcon(QMessageBox.Critical)
             msg.setText("Uh oh!")
-            msg.setInformativeText("Looks like something went wrong. Please check error.log in the Logs folder!")
+            msg.setInformativeText("Looks like something went wrong. Make sure all variables are correct, especially when using a profile. See error.log in the Logs folder for more details.")
             msg.exec()
 
     def open_user_manual(self):
