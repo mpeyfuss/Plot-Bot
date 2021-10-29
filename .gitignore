@@ -1,0 +1,8 @@
+**/__pycache__
+**/Crypt
+**/.vscode
+**/Temp Plots
+**/Released Builds
+**/Build/build
+**/Build/dist
+**/.venv

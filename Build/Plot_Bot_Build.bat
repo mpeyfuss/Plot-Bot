@@ -1,0 +1,1 @@
+pyinstaller --clean --onefile --noconsole --workpath ./build --distpath ./dist TEST.SW.505.spec

@@ -1,0 +1,7 @@
+numpy
+numexpr
+plotly
+PyQt5==5.12.3
+PyQtWebEngine==5.12.1
+hjson
+pandas
